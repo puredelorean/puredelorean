@@ -73,6 +73,7 @@
 <a href="https://youtube.com/@cr6w"><img src="https://img.shields.io/badge/YOUTUBE-000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://discord.com/users/652490335578226709"><img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:c6.explosive@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.behance.net/puredelorean/"><img src="https://img.shields.io/badge/BEHANCE-000?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </td>
 </tr>
 
