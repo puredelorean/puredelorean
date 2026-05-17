@@ -52,6 +52,7 @@
 <td align="left" style="padding: 15px;"><h3>Daily/Main</h3></td>
 <td align="right" style="padding: 15px;">
 <img src="https://img.shields.io/badge/-iPhone_4-000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nothing_(4a)-000?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/-iPod_Shuffle-000?style=for-the-badge&logo=applepodcasts&logoColor=white" />
 <img src="https://img.shields.io/badge/-Canon_A810-000?style=for-the-badge&logo=canon&logoColor=white" />
 <a href="https://github.com/jayofelony/pwnagotchi"><img src="https://img.shields.io/badge/-Pwnagotchi-000?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
@@ -62,7 +63,7 @@
 <td align="left" style="padding: 15px;"><h3>Projects</h3></td>
 <td align="right" style="padding: 15px;">
 <a href="https://github.com/Reyansh2323/Claro"><img src="https://img.shields.io/badge/-🔍%20Claro-000?style=for-the-badge" /></a>
-<a href=""><img src="https://img.shields.io/badge/-%20Mono-000?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
+<a href="https://opwngrid.xyz/search/460bd69b8674bec6b38f578c6275b252eb3732da05bbcc2fccbe938b4b74233f"><img src="https://img.shields.io/badge/-%20Haunter Pwnagotchi-000?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
 </td>
 </tr>
 
