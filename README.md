@@ -52,7 +52,7 @@
 <td align="left" style="padding: 15px;"><h3>Daily/Main</h3></td>
 <td align="right" style="padding: 15px;">
 <img src="https://img.shields.io/badge/-iPhone_4-000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nothing_(4a)-000?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<a href="https://nothing.tech/products/phone-4a?Colour=White&Capacity=8%2B128GB"><img src="https://img.shields.io/badge/-Nothing_(4a)-000?style=for-the-badge&logo=androidstudio&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-iPod_Shuffle-000?style=for-the-badge&logo=applepodcasts&logoColor=white" />
 <img src="https://img.shields.io/badge/-Canon_A810-000?style=for-the-badge&logo=canon&logoColor=white" />
 <a href="https://github.com/jayofelony/pwnagotchi"><img src="https://img.shields.io/badge/-Pwnagotchi-000?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
